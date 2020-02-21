@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "pluto-welcome.png",
       "type": "image/png",
       "sizes": "192x192"
     },
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#51CFD6"
+  "theme_color": "#FFFFFF",
+  "background_color": "#000000"
 }
