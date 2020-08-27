@@ -1,0 +1,22 @@
+{
+    "twonineteen": [
+        {
+            "country": " Croatia",
+            "city": "Pag, Zadar, Pula, Rovinj",
+            "image": "/croatia.jpg",
+            "link": "/croatia"
+        },
+        {
+            "country": " Germany",
+            "city": "Nürnberg",
+            "image": "/nuernberg.jpg",
+            "link": "/nuernberg"
+        },
+        {
+            "country": " Czech",
+            "city": "Prague",
+            "image": "/prague.jpg",
+            "link": "/prague"
+        }
+    ]
+}
